@@ -23,3 +23,26 @@ Consulte aqui a última atualização: [Relatório do {{ page.website }}](report
     <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
   </ul>
 </details>
+
+## Lista de websites incluídas na análise:
+
+- https://www.cm-braganca.pt/
+- https://www.cm-guimaraes.pt/ficha-tecnica/acessibilidade
+- https://www.municipio.esposende.pt/acessibilidade
+- https://www.cmav.pt/acessibilidade
+- https://www.cm-matosinhos.pt/ficha-tecnica/acessibilidade
+- https://www.regiaodeaveiro.pt/acessibilidade
+- https://valpacos.pt/ficha-tecnica/acessibilidade
+- https://www.sabrosa.pt/acessibilidade
+- https://www.cm-albergaria.pt/acessibilidade
+- https://www.cm-caminha.pt/ficha-tecnica/acessibilidade
+- https://www.cm-peniche.pt/ficha-tecnica/acessibilidade
+- https://www.cm-pesoregua.pt/ficha-tecnica/acessibilidade
+- https://www.cm-pombal.pt/ficha-tecnica/acessibilidade
+- https://www.cm-montalegre.pt/
+- https://www.cm-agueda.pt/
+- https://www.cm-satao.pt/
+- https://www.cm-ilhavo.pt/acessibilidade
+- https://www.cm-olb.pt/
+- https://www.cm-vagos.pt/acessibilidade
+- https://www.cm-valongo.pt/
