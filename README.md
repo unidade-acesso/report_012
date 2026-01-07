@@ -40,7 +40,7 @@ Consulte aqui a última atualização: [Relatório do {{ page.website }}](report
 - [https://www.cm-pesoregua.pt/ficha-tecnica/acessibilidade](https://www.cm-pesoregua.pt/ficha-tecnica/acessibilidade)
 - [https://www.cm-pombal.pt/ficha-tecnica/acessibilidade](https://www.cm-pombal.pt/ficha-tecnica/acessibilidade)
 - [https://www.cm-montalegre.pt/acessibilidade](https://www.cm-montalegre.pt/acessibilidade)
-- [https://www.cm-agueda.pt/](https://www.cm-agueda.pt/ficha-tecnica/acessibilidade)
+- [https://www.cm-agueda.pt/ficha-tecnica/acessibilidade](https://www.cm-agueda.pt/ficha-tecnica/acessibilidade)
 - [https://www.cm-satao.pt/ficha-tecnica/acessibilidade](https://www.cm-satao.pt/ficha-tecnica/acessibilidade)
 - [https://www.cm-ilhavo.pt/acessibilidade](https://www.cm-ilhavo.pt/acessibilidade)
 - [https://www.cm-olb.pt/acessibilidade](https://www.cm-olb.pt/acessibilidade)
